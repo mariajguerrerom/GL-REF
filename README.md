@@ -1,5 +1,4 @@
 # GL-REF
-Graph Learning Refinement under Node Removal: Application to Passive Acoustic Monitoring
 
 This repository contains the code and data associated with the paper:
 
